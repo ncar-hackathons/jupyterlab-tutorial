@@ -1,0 +1,5 @@
+#!/bin/bash
+set -ex
+
+# install jupyter-book
+echo "Done"
